@@ -1,6 +1,14 @@
 body {
-    color:#fdcd00;
+    color:whitesmoke;
     background: darkblue;
     font-family: cursive;
     font-size: 15;
+}
+main .infofont li {
+    font-size: 15pt;
+}
+main h1 {
+    border: 5px solid green;
+   
+   
 }
